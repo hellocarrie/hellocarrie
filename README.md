@@ -1,6 +1,6 @@
 - 🙋‍♀️ Hi, I’m @hellocarrie
 - 👩‍ UX designer learning to code
-- 💁‍♀️ I’m interested in coding oppotunties
+- 💁‍♀️ I’m interested in coding oppotunities
 - 👩‍💻 I’m currently learning python, C Sharp, javascript
 
 
